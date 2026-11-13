@@ -62,23 +62,6 @@ The guidance is initially designed for Microsoft Copilot because that is the pri
 
 An agent is not required for the core use case. Consider one only when the workflow needs reliable retrieval of a defined evidence set, organisational templates or style guides, repeatable checks, governed multi-step actions, or use at organisational scale. Human review should remain explicit for consequential scientific and policy judgements.
 
-## Naming convention
-
-The recommended repository name is:
-
-`policy-report-editor-AI-guidance`
-
-This follows the existing family pattern:
-
-`<role-or-purpose>-AI-guidance`
-
-For example:
-
-- `senior-data-scientist-AI-guidance`
-- `expert-knowledge-sharing-AI-guidance`
-- `policy-report-editor-AI-guidance`
-
-The name can be revisited later if the repositories are brought into a larger collection. Renaming existing repositories solely for taxonomic neatness is not necessary at this stage.
 
 ## Repository contents
 
